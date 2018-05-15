@@ -16,3 +16,9 @@ C:\Users\Vlaja\Desktop\Palindrommm\DOOP-LV7-zadaca\Palindrome Checker\Palindrome
 C:\Users\Vlaja\Desktop\Palindrommm\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.CoreCompileInputs.cache
 C:\Users\Vlaja\Desktop\Palindrommm\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.dll
 C:\Users\Vlaja\Desktop\Palindrommm\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.pdb
+C:\Users\Vlaja\Desktop\PalinRepo\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\bin\Debug\PalindromeCheck.dll
+C:\Users\Vlaja\Desktop\PalinRepo\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\bin\Debug\PalindromeCheck.pdb
+C:\Users\Vlaja\Desktop\PalinRepo\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.csprojResolveAssemblyReference.cache
+C:\Users\Vlaja\Desktop\PalinRepo\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Vlaja\Desktop\PalinRepo\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.dll
+C:\Users\Vlaja\Desktop\PalinRepo\DOOP-LV7-zadaca\Palindrome Checker\PalindromeCheck\obj\Debug\PalindromeCheck.pdb

@@ -21,7 +21,7 @@ namespace PalindromeCheck
                 char a = value[min];
                 char b = value[max];
 
-                
+                // Pomici unaprijed do prvog znaka ili brojke
                 while (!char.IsLetterOrDigit(a))
                 {
                     min++;
@@ -32,7 +32,7 @@ namespace PalindromeCheck
                     a = value[min];
                 }
 
-                
+                // Pomici unazad do prvog znaka ili brojke
                 while (!char.IsLetterOrDigit(b))
                 {
                     max--;

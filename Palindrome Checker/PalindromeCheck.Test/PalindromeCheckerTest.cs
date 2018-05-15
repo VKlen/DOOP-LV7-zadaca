@@ -21,6 +21,7 @@ namespace PalindromeCheck.Test
 
 
         }
+        [TestCase("")] // Counts as a palindrome
         [TestCase("A but tuba.")]
         [TestCase("Aibohphobia")]
         [TestCase("Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era.")]
