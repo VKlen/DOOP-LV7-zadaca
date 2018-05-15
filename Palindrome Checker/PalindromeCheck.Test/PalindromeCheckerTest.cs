@@ -10,7 +10,7 @@ namespace PalindromeCheck.Test
     [TestFixture]
     public class PalindromeCheckerTest
     {
-        
+        [TestCase("palica")]
         public void PalindromeChecker_WhenNotPalindrome_ReturnsFalse(string input)
         {
             bool actual = PalindromeChecker.IsPalindrome(input);
@@ -21,7 +21,10 @@ namespace PalindromeCheck.Test
 
 
         }
-        
+        [TestCase("A but tuba.")]
+        [TestCase("Aibohphobia")]
+        [TestCase("Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era.")]
+        [TestCase("A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal-Panama!")]
         public void PalindromeChecker_WhenIsPalindrome_ReturnsTrue(string input)
         {
             bool actual = PalindromeChecker.IsPalindrome(input);
